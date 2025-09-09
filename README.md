@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Cameron Hannay 👋
 
-<!--
-**cjhannay26/cjhannay26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a current senior at West Virginia University studying Computer Science with a concentration in Cybersecurity. I have a passion for building custom applications that help improve business processes.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** Java, Python, C, JavaScript, HTML, CSS
+- **Frameworks & Tools:** VS Code, Git, React, Node.js, ServiceNow
+- **Areas of Interest:** Artificial intelligence, Software Development, Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [ClimaCloset](https://github.com/WVU-CS330-2024-08-Group02/ClimaCloset.git) — Provides outfit suggestions using weather data from NOAA
+- [MyFacebook Access Control](https://github.com/cjhannay26/hannay-cybe465-programming-assignment-1.git) — Mimicks a Facebook account that enforces various kinds of access controls
+- [MIPS Assembler/Disassembler](https://github.com/Grillied/CPE310-Project.git) — Converts binary to assembly and assembly to binary
+
+## Connect with Me
+- [Email](mailto:cameron.hannay@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/channay)
