@@ -5,7 +5,7 @@ I'm a current senior at West Virginia University studying Computer Science with 
 ## Skills
 - **Languages:** Java, Python, C, JavaScript, HTML, CSS
 - **Frameworks & Tools:** VS Code, Git, React, Node.js, ServiceNow
-- **Areas of Interest:** Artificial intelligence, Software Development, Cybersecurity
+- **Areas of Interest:** Artificial Intelligence, Software Development, Cybersecurity
 
 ## Featured Projects
 - [ClimaCloset](https://github.com/WVU-CS330-2024-08-Group02/ClimaCloset.git) — Provides outfit suggestions using weather data from NOAA
